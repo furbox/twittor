@@ -1,0 +1,16 @@
+{
+  "name": "06-twittor",
+  "version": "1.0.0",
+  "description": "Un cascarón de chat usando jQuery para PWAs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
